@@ -21,6 +21,6 @@
 </div>
 
 # 📊 GitHub Stats:
-[![Tauqir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tauqirkhan&bg_color=000000&color=0000FF&line=800080&point=FF0000&area=true&hide_border=true)]
+![Tauqir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tauqirkhan&bg_color=000000&color=0000FF&line=800080&point=FF0000&area=true&hide_border=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
