@@ -21,8 +21,7 @@
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tauqirkhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=tauqirkhan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tauqirkhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=)](https://git.io/streak-stats)
+[![Tauqir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tauqirkhan&bg_color=000000&color=0000FF&line=800080&point=FF0000&area=true&hide_border=true)]
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
